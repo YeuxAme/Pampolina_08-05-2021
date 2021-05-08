@@ -1,0 +1,1 @@
+var par = document.getElementById("text-bold");
